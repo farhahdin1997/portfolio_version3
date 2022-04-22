@@ -886,4 +886,9 @@ li span:hover:after {
 a{
     text-align: center;
     color: black;
+    text-decoration: underline;
 }
+
+img {
+    border-radius: 50%;
+  }
