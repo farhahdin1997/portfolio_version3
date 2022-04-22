@@ -24,4 +24,4 @@ This application is covered under the [MIT](https://opensource.org/licenses/MIT)
 
 ## Deployed link 
 
-Here is our deployed link: https://aqueous-brook-09754.herokuapp.com/ 
+Here is our deployed link:  https://farhahdin1997.github.io/portfolio_version3/
