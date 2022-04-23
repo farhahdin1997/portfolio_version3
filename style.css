@@ -503,12 +503,6 @@ li span:hover:after {
         float: none;
     }
 
-    #logo {
-        display: none;
-        /* height: 65%;
-        margin-top: 28px; */
-    }
-
     .hero-tag {
         margin-top: 20vh;
         font-size: 4em;
@@ -540,50 +534,6 @@ li span:hover:after {
 
     .menu-wrap .toggler {
         z-index: 3;
-    }
-
-    .contact-hero {
-        margin-top: 10vh;
-    }
-
-    .footer-full {
-        text-align: center;
-        padding-top: 40px !important;
-    }
-
-    #contact-social {
-        margin-top: 10%;
-    }
-
-    .footer-credits {
-        display: block;
-        text-align: center;
-        padding-top: 10px;
-        float: none;
-    }
-
-    #legal-hero {
-        margin-top: 5vh !important;
-        text-align: left;
-    }
-
-    #legal-hero-des {
-        padding-right: 10px;
-        text-align: left;
-        font-size: 0.8em;
-    }
-
-    .privacy-policy p {
-        padding-right: 1vw;
-        /* text-align: left; */
-    }
-
-    .project-star {
-        display: none;
-    }
-
-    .project-star-mobile {
-        display: block;
     }
 }
 
