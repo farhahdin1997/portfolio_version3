@@ -102,6 +102,10 @@ a{
 .work-des p {
     text-align: justify;
     font-weight: 100;
+    
+}
+.word-des a{
+    text-align: center;
 }
 
 .work-hero-img {
@@ -371,7 +375,7 @@ li span:hover:after {
 
 .menu-wrap .menu>div>div>ul>li>a {
     color: inherit;
-    text-decoration: none;
+  
     transition: color 0.4s ease;
 }
 
@@ -508,9 +512,9 @@ li span:hover:after {
         margin-top: 20vh;
         font-size: 4em;
     }
-
+   
     #hero-right {
-        display: none;
+        
     }
 
     .hero-des {
@@ -536,6 +540,7 @@ li span:hover:after {
     .menu-wrap .toggler {
         z-index: 3;
     }
+    
 }
 
 
