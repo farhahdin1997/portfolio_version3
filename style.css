@@ -17,6 +17,7 @@
     --white-color: #fff;
     --hero-color: black;
 }
+
 .work-hero-card{
     display: block;
     margin:0 auto;
@@ -300,8 +301,6 @@ li span a:hover {
 
 
 }
-
-
 
 .menu-wrap {
     position: fixed;
@@ -786,7 +785,7 @@ li span:hover:after {
     }
 
     #hero-right {
-        display: none;
+       
     }
 
     .hero-des {
