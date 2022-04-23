@@ -21,6 +21,12 @@ body {
     --hero-color: black;
 }
 
+
+a{
+    color: black;
+    
+}
+
 /*Work section*/
 .work-hero-card{
     display: block;
@@ -120,11 +126,6 @@ body {
     font-size: 1.5em;
 }
 
-
-a{
-    color: black;
-    text-align: center
-}
 
 /*Social media icons*/
 .social-icons a {
